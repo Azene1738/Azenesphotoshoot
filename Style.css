@@ -1,0 +1,27 @@
+
+body {
+    background-color: rgb(102, 35, 110);
+}
+
+.Comingsoon {
+    font-family:'Times New Roman', Times, serif;
+    color: white ;
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(108, 241, 230);
+    padding: 10px;
+    bottom: 10px;
+  }
+
+  .Comingsoon h1 {
+      font-size: 5vw;
+  }
+
+  .Comingsoon p {
+    font-size: 1vw;
+    color: rgb(101, 255, 147);
+    font-size: 50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-right: 10px;
+    position: static;
+  } 
